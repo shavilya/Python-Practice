@@ -14,7 +14,7 @@ The Python Mastery series is designed to move beyond rote learning and into true
 
 ## Connect With Me 🤝
 
-Feel free to check out my progress and connect on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shavilya-rajput-9674141a0/)) to follow along as I deepen my Python skills.
+Feel free to check out my progress and connect on [LinkedIn](https://www.linkedin.com/in/shavilya-rajput-9674141a0/) to follow along as I deepen my Python skills.
 
 ---
 
